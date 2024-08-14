@@ -23,9 +23,9 @@ Download the FREE-WILi Whale Tail Badge UF2 File at #
 </figure>
 </div>
 
-1) Release the button once the cable is connected.
+3) Release the button once the cable is connected.
 
-2) A disk volume called RPI-RP2 will appear on your computer.
+4) A disk volume called RPI-RP2 will appear on your computer.
 
 ### Load a UF2 File to the Raspberry Pi Pico
 
