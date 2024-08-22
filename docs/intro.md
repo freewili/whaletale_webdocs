@@ -22,3 +22,4 @@ title: Getting Started
 ### **[(3) Whale Tail Badge Tour and Pinout](/whale-tail-badge-tour-and-pinout/)**
 ### **[(4) Setup](/setup/)**
 ### **[(5) Whale Tail MicroPython Examples](/whale-tail-micropython-examples/)**
+### **[(6) Download Schematics](/schematics/)**

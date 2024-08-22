@@ -16,4 +16,4 @@ We’ve created detailed schematics to assist you. Click the link below to downl
 
 #### <a target="_blank" href="/files/WhaleTailBadge.pdf" download="WhaleTailBadge.pdf">Download the PDF</a>
 
-If you have any questions or need further clarification, don’t hesitate to contact us!
+If you have any questions or need further clarification, don’t hesitate to [contact](https://support.freewili.com/) us!
