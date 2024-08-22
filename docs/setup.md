@@ -6,7 +6,9 @@ sidebar_position: 5
 
 ## How to download a UF2 File to your Whale Tail Badge
 
-Download the FREE-WILi Whale Tail Badge UF2 File at #
+<!-- Download the FREE-WILi Whale Tail Badge UF2 file by clicking [here](/files/WhaleTail_Project.uf2). -->
+
+Download the FREE-WILi Whale Tail Badge UF2 file by clicking <a target="_blank" href="/files/WhaleTail_Project.uf2">here</a>.
 
 ### CONNECT THE Whale Tail TO YOUR COMPUTER
 

@@ -17,8 +17,8 @@ title: Getting Started
 
 ## Contents:
 
-1) [Safety and Other Important Notices](/safety-and-other-important-notices/)
-2) [Introduction and Overview](/introduction-and-overview/)
-3) [Whale Tail Badge Tour and Pinout](/whale-tail-badge-tour-and-pinout/)
-4) [Setup](/setup/)
-5) [Whale Tail MicroPython Examples](/whale-tail-micropython-examples/)
+### **[(1) Safety and Other Important Notices](/safety-and-other-important-notices/)**
+### **[(2) Introduction and Overview](/introduction-and-overview/)**
+### **[(3) Whale Tail Badge Tour and Pinout](/whale-tail-badge-tour-and-pinout/)**
+### **[(4) Setup](/setup/)**
+### **[(5) Whale Tail MicroPython Examples](/whale-tail-micropython-examples/)**
