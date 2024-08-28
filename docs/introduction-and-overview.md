@@ -58,7 +58,6 @@ With a Raspberry Pi Pico, the uses are infinite! However, this isn't just a Rasp
 
 - 1x 10BASE-T1L Interface based on [Analog Devices ADIN1110](https://www.analog.com/en/resources/technical-articles/enabling-seamless-ethernet-to-field-with-10base-t1l-connectivity.html) 
 - 1x CAN FD Interface: Based on [Microchip MCP2518FD](https://www.microchip.com/en-us/product/MCP2518FD) binary compatible with [CANIS lab CANPICO](https://canislabs.com/canpico/)
-- Black contains two Texas Instruments CC1101 Sub Ghz Radios with programmable filter ranges for 300-348, 387-464, 779-928 bands.
 - RS485 Modbus Interface
 - 6x Serial RGB Color Programmable LED
 - 4-20mA Sensor Simulator
