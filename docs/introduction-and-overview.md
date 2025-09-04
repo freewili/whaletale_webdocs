@@ -38,7 +38,7 @@ With a Raspberry Pi Pico, the uses are infinite! However, this isn't just a Rasp
 
 <figure>
 
-![FREE-WILi Whale Tail Front View](./assets/WhaleTail_front.jpg "FREE-WILi Whale Tail Front View")
+![FREE-WILi Whale Tail Front View](./assets/WhaleTail_front.webp "FREE-WILi Whale Tail Front View")
 <figcaption>FREE-WILi Whale Tail Front View</figcaption>
 </figure>
 </div>

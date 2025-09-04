@@ -54,7 +54,7 @@ The table below describes the pins. All GPIO except dedicated pins can be used b
 
 <figure>
 
-![WhaleTail_Badge_Pinout_details](./assets/WhaleTail_Badge_Pinout_details.jpg "WhaleTail_Badge_Pinout_details")
+![WhaleTail_Badge_Pinout_details](./assets/WhaleTail_Badge_Pinout_details.webp "WhaleTail_Badge_Pinout_details")
 <figcaption>Green Connector Channel Pinout</figcaption>
 </figure>
 </div>
